@@ -1,6 +1,6 @@
 # 📚 Bài Tập Môn Học Máy (Machine Learning)
 
-Kho lưu trữ (Repository) này được sử dụng để lưu trữ mã nguồn, báo cáo và nộp các bài tập thực hành, đồ án môn học **[Tên/Mã môn học - ví dụ: IT3320 Học Máy]**.
+Kho lưu trữ (Repository) này được sử dụng để lưu trữ mã nguồn, báo cáo và nộp các bài tập thực hành, đồ án môn học 
 
 ## 👤 Thông tin sinh viên
 - **Họ và tên:** Nguyễn Văn Phong
